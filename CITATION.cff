@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Einsatz von Transfer Learning für Luftqualitätsprognosen mit einem Time Series Foundation Model"
+abstract: "Zero-Shot- und Few-Shot-Luftqualitätsprognosen an ungesehenen Messstationen mit MOMENT (385M): Durchschnitt R2 0,676 ohne lokale Trainingsdaten, bis 0,863 mit kontrolliertem Fine-Tuning (LR 1e-6). Daten: LANUK NRW, Open Data."
+type: software
+authors:
+  - family-names: "Ehmer"
+    given-names: "Simeon"
+version: "1.0"
+date-released: "2026-10-02"
+url: "https://github.com/Simeon1970-prog/DL-Transfer-Learning-Luftqualitaet"
+license: "CC-BY-SA-4.0"
+keywords:
+  - "Transfer Learning"
+  - "Foundation Models"
+  - "Zeitreihen"
+  - "Luftqualität"
+  - "Zero-Shot"
+  - "MOMENT"
+  - "LANUK"
+  - "Smart City"
