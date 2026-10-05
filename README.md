@@ -1,7 +1,7 @@
 # Transfer Learning für Luftqualitätsprognosen mit einem Time Series Foundation Model
 
 **Semesterarbeit Deep Learning · FH Südwestfalen (Betreuung: Prof. Dr. Stefan Goetze) · WiSe 2025/26**
-Autor: Simeon Ehmer · Lizenz: [CC BY-SA 4.0](LICENSE)
+Autor: Simeon Ehmer · Lizenz: [CC BY-SA 4.0](LICENSE) · DOI: [10.5281/zenodo.23150865](https://doi.org/10.5281/zenodo.23150865)
 
 ## Problem
 
@@ -44,6 +44,10 @@ R² ≈ 0,68 (Zero-Shot) ist eine **informative Entscheidungshilfe**, keine regu
 ## Inhalt
 
 - `DeepLearning_Transfer_Learning_Luftqualitaet.ipynb` — vollständiges Notebook (Methodik, Experimente, Ergebnisse, inkl. der Irrwege). Hinweis: Ergebnis-Abbildungen referenzieren lokale Läufe und entstehen beim Ausführen; sie sind nicht Teil des Repositories.
+
+## Zitieren
+
+Archiviert auf Zenodo: [10.5281/zenodo.23150865](https://doi.org/10.5281/zenodo.23150865) (Version 1.0) · versionsübergreifend: [10.5281/zenodo.23150864](https://doi.org/10.5281/zenodo.23150864). Zitierformat siehe [CITATION.cff](CITATION.cff).
 
 ## Verwandte Arbeiten
 
