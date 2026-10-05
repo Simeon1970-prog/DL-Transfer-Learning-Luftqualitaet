@@ -10,6 +10,14 @@ version: "1.0"
 date-released: "2026-10-02"
 url: "https://github.com/Simeon1970-prog/DL-Transfer-Learning-Luftqualitaet"
 license: "CC-BY-SA-4.0"
+doi: "10.5281/zenodo.23150865"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23150865"
+    description: "Zenodo (Version 1.0)"
+  - type: doi
+    value: "10.5281/zenodo.23150864"
+    description: "Zenodo (alle Versionen)"
 keywords:
   - "Transfer Learning"
   - "Foundation Models"
